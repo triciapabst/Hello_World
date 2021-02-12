@@ -1,8 +1,8 @@
 ## Project Title
-*italicized text* Hello World Sample
-This is a sample repository 
+*Hello World Sample*
+ 
 
 ## Description
-Creating a sample repository for practice using GitHub
+*Creating a sample repository for practice using GitHub*
 
-My name is Tricia Pabst and I am studying Business Analytics and Finance at the University of Iowa.
+
