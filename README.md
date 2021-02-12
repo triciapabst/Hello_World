@@ -1,5 +1,5 @@
 ## Project Title
-<fontface="Times New Roman">*Hello World Sample*</font>
+*Hello World Sample*
 
  
 
